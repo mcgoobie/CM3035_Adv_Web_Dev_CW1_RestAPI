@@ -1,0 +1,11 @@
+{
+  "protein_id": "A0A012345A",
+  "sequence": "MVIGVGFLLVLFSSSVLGILNAGVQLRIEELFDTPGHTNNWAVLVCTSRFWFNYRHVSNVLALYHTVKRLGIPDSNIILMLAEDVPCNPRNPRPEAAVLSA",
+  "taxonomy": {
+    "taxa_id": "12345",
+    "clade": "E",
+    "genus": "Ancylostoma",
+    "species": "ceylanicum"
+  },
+  "length": "101"
+}
